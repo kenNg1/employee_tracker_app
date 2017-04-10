@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
-  database: employee_tracker_development
+  database: team_league_development
 
 test:
   adapter: postgresql
-  database: employee_tracker_test
+  database: team_league_test
